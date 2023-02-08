@@ -19,6 +19,7 @@ This repository is for newbies to teach them git fundamentals and how to use Git
 
 ### Working with a remote branch
 
+- Clone a remote repo `git clone <git-link>`
 - Adding a remote branch from Github `git remote add <branch-ref> <link>`
 - Removing a remote branch Github `git remote remove <branch-ref>`
 - Pushing to Github `git push`
