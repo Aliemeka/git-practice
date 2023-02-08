@@ -13,5 +13,5 @@ What will be covered:
 - Branching `git branch`
 - Pushing to Github `git push`
 - Pulling code from Github `git pull`
-- Switching branch `git checkout`
+- Switching branch `git checkout` | `git switch`
 - Merging branches `git merge`
