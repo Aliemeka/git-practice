@@ -2,7 +2,7 @@
 
 ## Practicing using Git
 
-This repository is for newbies to teach newbies git fundamentals and how to use Github.
+This repository is for newbies to teach them git fundamentals and how to use Github.
 <br>
 <br>
 
